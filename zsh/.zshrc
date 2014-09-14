@@ -1,1 +1,1 @@
-#zshrc file
+/home/abinesh/.zshrc
